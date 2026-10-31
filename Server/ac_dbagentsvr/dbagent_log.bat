@@ -1,0 +1,1 @@
+ac_dbagentsvr.exe -c ls_dbagent_log.ini
