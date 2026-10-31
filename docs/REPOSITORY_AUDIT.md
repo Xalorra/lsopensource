@@ -38,14 +38,14 @@ The local development workspace is located at:
 Git configuration and remote topology:
 ```bash
 $ git remote -v
-origin    git@github.com:Xalorra/NOVERA-Legacy.git (fetch)
-origin    git@github.com:Xalorra/NOVERA-Legacy.git (push)
+origin    git@github.com:Xalorra/lsopensource.git (fetch)
+origin    git@github.com:Xalorra/lsopensource.git (push)
 upstream  https://github.com/crayzero0/lsopensource.git (fetch)
 upstream  https://github.com/crayzero0/lsopensource.git (push)
 ```
 
 - **Upstream**: Configured to track the canonical open-source base `https://github.com/crayzero0/lsopensource.git`.
-- **Origin**: Configured to track the organization/developer fork endpoint `git@github.com:Xalorra/NOVERA-Legacy.git`.
+- **Origin**: Configured to track our verified development fork `git@github.com:Xalorra/lsopensource.git`.
 - **Git Metadata & Commit History**: Branch `main` retains complete commit history from upstream merged with our comprehensive technical audit documentation.
 
 ---
